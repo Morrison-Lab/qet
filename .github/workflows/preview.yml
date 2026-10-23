@@ -25,7 +25,6 @@ on:
       - '.github/workflows/preview.yml'
       - '!.claude/**'
       - '!*.md'
-      - '!_typos.toml'
       - '!.gitignore'
       - '!.gitattributes'
 
